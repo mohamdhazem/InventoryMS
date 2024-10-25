@@ -96,14 +96,6 @@ The **Inventory Management System (IMS)** is a comprehensive web-based applicati
 - [@Mohammed Hazem](https://www.linkedin.com/in/mohamed-hazem-1bb4b1231/)
 - [@Mohammed Alaa](https://www.linkedin.com/in/mohamed-gad-eng/)
 
-## 📝Feedback
-
-If you have any feedback, please reach out to us at MelioTech@gmail.com
-
-
-
-
-
 ## ⚖️License
 
 [MIT](https://choosealicense.com/licenses/mit/)
